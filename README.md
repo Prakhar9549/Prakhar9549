@@ -20,7 +20,7 @@ Here are some ideas to get you started:
      <a href = "https://www.linkedin.com/in/prakhar-jain-516266220/" ><img src = "https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg"></a>
      <a href = "https://www.instagram.com/_jain_prakhar/" ><img src = "https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg"></a>
 
-</div>
+
      
 ## Quine Stats
 
