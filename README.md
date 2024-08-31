@@ -1,6 +1,6 @@
+### Hi there 👋 I'm Prakhar Jain
+Just learning everyday😀
 
-<h1 align="center">Hi there 👋 I'm Prakhar Jain!</h1>
-<h3 align="center">An AI enthusiast</h3>
 <!--
 **Prakhar9549/Prakhar9549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
 <div id="socials" align="center">
      <a href = "https://www.linkedin.com/in/prakhar-jain-516266220/" ><img src = "https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg"></a>
      <a href = "https://www.instagram.com/_jain_prakhar/" ><img src = "https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg"></a>
-
-
-     
-## Quine Stats
+## 📈 Quine Stats
 
 [![Prakhar9549's GitHub | Stats](https://stats.quira.sh/Prakhar9549/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Prakhar9549)
 [![Prakhar9549's GitHub | Languages Over Time](https://stats.quira.sh/Prakhar9549/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Prakhar9549)
