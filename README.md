@@ -1,7 +1,6 @@
-### 
-Just learning everyday😀
+
 <h1 align="center">Hi there 👋 I'm Prakhar Jain!</h1>
-<h3 align="center">An AI enthusiast</h3>
+
 <!--
 **Prakhar9549/Prakhar9549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
