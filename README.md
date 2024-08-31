@@ -22,6 +22,78 @@ Here are some ideas to get you started:
 [![Prakhar9549's GitHub | Stats](https://stats.quira.sh/Prakhar9549/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Prakhar9549)
 [![Prakhar9549's GitHub | Languages Over Time](https://stats.quira.sh/Prakhar9549/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Prakhar9549)
 
+<p align="left">
+  <!-- Machine Learning -->
+  <img src="https://img.icons8.com/ios/50/000000/machine-learning.png" alt="machine-learning" width="40" height="40"/>
+  
+  <!-- Deep Learning -->
+  <img src="https://img.icons8.com/ios/50/000000/deep-learning.png" alt="deep-learning" width="40" height="40"/>
+  
+  <!-- Generative AI -->
+  <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="generative-ai" width="40" height="40"/>
+  
+  <!-- Computer Vision -->
+  <img src="https://img.icons8.com/ios/50/000000/vision.png" alt="computer-vision" width="40" height="40"/>
+  
+  <!-- NLP -->
+  <img src="https://img.icons8.com/ios/50/000000/nlp.png" alt="nlp" width="40" height="40"/>
+  
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  
+  <!-- SQL -->
+  <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="sql" width="40" height="40"/>
+  
+  <!-- PyTorch -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+  
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
+  
+  <!-- Scikit-Learn -->
+  <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" alt="scikit-learn" width="40" height="40"/>
+  
+  <!-- Pandas -->
+  <img src="https://img.icons8.com/ios/50/000000/pandas.png" alt="pandas" width="40" height="40"/>
+  
+  <!-- NumPy -->
+  <img src="https://img.icons8.com/ios/50/000000/numpy.png" alt="numpy" width="40" height="40"/>
+  
+  <!-- OpenCV -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/>
+  
+  <!-- YOLO -->
+  <img src="https://img.icons8.com/ios/50/000000/yolo.png" alt="yolo" width="40" height="40"/>
+  
+  <!-- MediaPipe -->
+  <img src="https://img.icons8.com/ios/50/000000/mediapipe.png" alt="mediapipe" width="40" height="40"/>
+  
+  <!-- LangChain -->
+  <img src="https://img.icons8.com/ios/50/000000/langchain.png" alt="langchain" width="40" height="40"/>
+  
+  <!-- Transformers -->
+  <img src="https://img.icons8.com/ios/50/000000/transformers.png" alt="transformers" width="40" height="40"/>
+  
+  <!-- Microsoft Azure -->
+  <img src="https://img.icons8.com/ios/50/000000/microsoft-azure.png" alt="azure" width="40" height="40"/>
+  
+  <!-- Jupyter Notebook -->
+  <img src="https://img.icons8.com/ios/50/000000/jupyter.png" alt="jupyter" width="40" height="40"/>
+  
+  <!-- Google Colab -->
+  <img src="https://img.icons8.com/ios/50/000000/google-colab.png" alt="google-colab" width="40" height="40"/>
+  
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  
+  <!-- RunPod -->
+  <img src="https://img.icons8.com/ios/50/000000/running.png" alt="runpod" width="40" height="40"/>
+</p>
+
+
 
 ## Thank you for Visiting!
 
